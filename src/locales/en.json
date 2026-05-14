@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "about": "About Us",
+    "products": "Products",
+    "values": "Values",
+    "sustainability": "Sustainability",
+    "catalog": "Catalog",
+    "careers": "Careers",
+    "board": "Board",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "Sonia Group · Bangladesh",
+    "title": "Crafting the\nWorld's Finest\nKnitwear",
+    "subtitle": "Design-led. Sustainably made. Globally trusted — for over 20 years.",
+    "discover": "Discover Our Story",
+    "viewProducts": "View Products",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "tag": "Our Story",
+    "title": "Where Passion\nMeets Precision",
+    "description1": "With 23 years of experience, we've grown from apparel designers to a full-service knitwear manufacturer for global brands. Our design team creates versatile collections in various price points, specializing in sweaters, cardigans, and t-shirts.",
+    "description2": "We combine craftsmanship with special finishes for exceptional quality. With robust supply chain services like packaging and logistics, we ensure safe, eco-friendly manufacturing.",
+    "description3": "Our focus on sustainability and excellence helps brands create beautiful, functional clothing while building trust and innovation in B2B partnerships.",
+    "stats": {
+      "years": "Years of Excellence",
+      "clients": "Global Clients",
+      "commitment": "100% Commitment"
+    },
+    "since": "Since 2003",
+    "location": "Sonia Group, Bangladesh"
+  },
+  "catalog": {
+    "tag": "View Our Work",
+    "title": "The Digital Catalogs",
+    "description": "Explore our latest seasonal collections and capability showcases through our interactive digital presentations.",
+    "catalogNum": "Collection Catalog",
+    "range": "Sonia & Sweaters — Full Range"
+  },
+  "careers": {
+    "tag": "Join Our Team",
+    "title": "Careers at Sonia",
+    "loading": "Loading open positions...",
+    "noJobs": "There are currently no open positions. Please check back later.",
+    "applyNow": "Apply Now",
+    "applyingFor": "Applying for",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "message": "Cover Letter / Message",
+    "resume": "Resume/CV (PDF or Doc)",
+    "submit": "Submit Application",
+    "sending": "Sending Application...",
+    "success": "Your application has been submitted successfully. We will be in touch!",
+    "error": "There was an error sending your application. Please try again later."
+  },
+  "contact": {
+    "tag": "Get in Touch",
+    "title": "Start a Conversation",
+    "office": "Corporate Office",
+    "address": "Plot No:604, Kondolbag, Taibpur, Ashulia, Savar\nDhaka-1341, Bangladesh",
+    "inquiries": "General Inquiries",
+    "sales": "Sales & Merchandising",
+    "follow": "Follow on LinkedIn",
+    "send": "Send a Message",
+    "namePlaceholder": "John Doe",
+    "emailPlaceholder": "john@company.com",
+    "messagePlaceholder": "How can we help you?",
+    "btnSend": "Send Message",
+    "btnSending": "Sending...",
+    "success": "✓ Message sent. We will be in touch shortly.",
+    "error": "Something went wrong. Please try again.",
+    "networkError": "Network error. Please email us directly at info@soniagroup.com"
+  },
+  "footer": {
+    "about": "About",
+    "products": "Products",
+    "sustainability": "Sustainability",
+    "board": "Board",
+    "contact": "Contact",
+    "headquarters": "Corporate Headquarters",
+    "copy": "Designed, Developed & Maintained By Software Engineering Dept. Sonia & Sweaters Limited. © 2026"
+  },
+  "board": {
+    "tag": "Leadership",
+    "title": "Board of Directors",
+    "director": "Director",
+    "chairman": "Chairman",
+    "managingDirector": "Managing Director",
+    "coo": "Chief Operating Officer"
+  }
+}

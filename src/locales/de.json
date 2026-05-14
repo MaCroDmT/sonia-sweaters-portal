@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "about": "Über Uns",
+    "products": "Produkte",
+    "values": "Werte",
+    "sustainability": "Nachhaltigkeit",
+    "catalog": "Katalog",
+    "careers": "Karriere",
+    "board": "Vorstand",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "eyebrow": "Sonia Group · Bangladesch",
+    "title": "Wir fertigen die\nweltweit feinste\nStrickware",
+    "subtitle": "Designorientiert. Nachhaltig hergestellt. Weltweit vertraut — seit über 20 Jahren.",
+    "discover": "Entdecken Sie unsere Geschichte",
+    "viewProducts": "Produkte ansehen",
+    "scroll": "Scrollen"
+  },
+  "about": {
+    "tag": "Unsere Geschichte",
+    "title": "Wo Leidenschaft\nauf Präzision trifft",
+    "description1": "Mit 23 Jahren Erfahrung haben wir uns von Bekleidungsdesignern zu einem Full-Service-Strickwarenhersteller für globale Marken entwickelt. Unser Designteam erstellt vielseitige Kollektionen in verschiedenen Preislagen, spezialisiert auf Pullover, Strickjacken und T-Shirts.",
+    "description2": "Wir kombinieren Handwerkskunst mit speziellen Veredelungen für außergewöhnliche Qualität. Mit robusten Lieferkettendienstleistungen wie Verpackung und Logistik gewährleisten wir eine sichere, umweltfreundliche Herstellung.",
+    "description3": "Unser Fokus auf Nachhaltigkeit und Exzellenz hilft Marken, schöne, funktionale Kleidung zu kreieren und gleichzeitig Vertrauen und Innovation in B2B-Partnerschaften aufzubauen.",
+    "stats": {
+      "years": "Jahre Exzellenz",
+      "clients": "Globale Kunden",
+      "commitment": "100% Engagement"
+    },
+    "since": "Seit 2003",
+    "location": "Sonia Group, Bangladesch"
+  },
+  "catalog": {
+    "tag": "Unsere Arbeit",
+    "title": "Die digitalen Kataloge",
+    "description": "Entdecken Sie unsere neuesten saisonalen Kollektionen und Leistungsmerkmale durch unsere interaktiven digitalen Präsentationen.",
+    "catalogNum": "Kollektionskatalog",
+    "range": "Sonia & Sweaters — Gesamtes Sortiment"
+  },
+  "careers": {
+    "tag": "Werden Sie Teil unseres Teams",
+    "title": "Karriere bei Sonia",
+    "loading": "Offene Stellen werden geladen...",
+    "noJobs": "Derzeit sind keine Stellen offen. Bitte schauen Sie später wieder vorbei.",
+    "applyNow": "Jetzt bewerben",
+    "applyingFor": "Bewerbung als",
+    "fullName": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "message": "Anschreiben / Nachricht",
+    "resume": "Lebenslauf/CV (PDF oder Doc)",
+    "submit": "Bewerbung absenden",
+    "sending": "Bewerbung wird gesendet...",
+    "success": "Ihre Bewerbung wurde erfolgreich gesendet. Wir werden uns bei Ihnen melden!",
+    "error": "Beim Senden Ihrer Bewerbung ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+  },
+  "contact": {
+    "tag": "Kontaktieren Sie uns",
+    "title": "Starten Sie ein Gespräch",
+    "office": "Unternehmenszentrale",
+    "address": "Plot Nr: 604, Kondolbag, Taibpur, Ashulia, Savar\nDhaka-1341, Bangladesch",
+    "inquiries": "Allgemeine Anfragen",
+    "sales": "Verkauf & Merchandising",
+    "follow": "Folgen Sie uns auf LinkedIn",
+    "send": "Nachricht senden",
+    "namePlaceholder": "Max Mustermann",
+    "emailPlaceholder": "max@unternehmen.de",
+    "messagePlaceholder": "Wie können wir Ihnen helfen?",
+    "btnSend": "Nachricht senden",
+    "btnSending": "Wird gesendet...",
+    "success": "✓ Nachricht gesendet. Wir werden uns in Kürze melden.",
+    "error": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.",
+    "networkError": "Netzwerkfehler. Bitte senden Sie uns direkt eine E-Mail an info@soniagroup.com"
+  },
+  "footer": {
+    "about": "Über uns",
+    "products": "Produkte",
+    "sustainability": "Nachhaltigkeit",
+    "board": "Vorstand",
+    "contact": "Kontakt",
+    "headquarters": "Hauptsitz des Unternehmens",
+    "copy": "Entworfen, entwickelt und gepflegt von der Software-Engineering-Abteilung Sonia & Sweaters Limited. © 2026"
+  },
+  "board": {
+    "tag": "Führung",
+    "title": "Vorstand",
+    "director": "Direktor",
+    "chairman": "Vorsitzender",
+    "managingDirector": "Geschäftsführer",
+    "coo": "Chief Operating Officer"
+  }
+}

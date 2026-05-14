@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "about": "Sobre Nós",
+    "products": "Produtos",
+    "values": "Valores",
+    "sustainability": "Sustentabilidade",
+    "catalog": "Catálogo",
+    "careers": "Carreiras",
+    "board": "Conselho",
+    "contact": "Contato"
+  },
+  "hero": {
+    "eyebrow": "Sonia Group · Bangladesh",
+    "title": "Produzindo as\nMelhores Malhas\ndo Mundo",
+    "subtitle": "Liderado pelo design. Produzido de forma sustentável. Confiado globalmente — há mais de 20 anos.",
+    "discover": "Descubra Nossa História",
+    "viewProducts": "Ver Produtos",
+    "scroll": "Rolar"
+  },
+  "about": {
+    "tag": "Nossa História",
+    "title": "Onde a Paixão\nEncontra a Precisão",
+    "description1": "Com 23 anos de experiência, crescemos de designers de vestuário para um fabricante de malhas de serviço completo para marcas globais. Nossa equipe de design cria coleções versáteis em vários níveis de preço, especializando-se em blusas, cardigãs e camisetas.",
+    "description2": "Combinamos artesanato com acabamentos especiais para uma qualidade excepcional. Com serviços robustos de cadeia de suprimentos, como embalagem e logística, garantimos uma fabricação segura e ecológica.",
+    "description3": "Nosso foco em sustentabilidade e excelência ajuda as marcas a criar roupas bonitas e funcionais, ao mesmo tempo em que constrói confiança e inovação em parcerias B2B.",
+    "stats": {
+      "years": "Anos de Excelência",
+      "clients": "Clientes Globais",
+      "commitment": "100% Compromisso"
+    },
+    "since": "Desde 2003",
+    "location": "Sonia Group, Bangladesh"
+  },
+  "catalog": {
+    "tag": "Veja Nosso Trabalho",
+    "title": "Os Catálogos Digitais",
+    "description": "Explore nossas últimas coleções sazonais e vitrines de capacidade por meio de nossas apresentações digitais interativas.",
+    "catalogNum": "Catálogo de Coleção",
+    "range": "Sonia & Sweaters — Gama Completa"
+  },
+  "careers": {
+    "tag": "Junte-se à Nossa Equipe",
+    "title": "Carreiras na Sonia",
+    "loading": "Carregando vagas abertas...",
+    "noJobs": "Atualmente não há vagas abertas. Por favor, volte mais tarde.",
+    "applyNow": "Candidatar-se Agora",
+    "applyingFor": "Candidatando-se a",
+    "fullName": "Nome Completo",
+    "email": "Endereço de E-mail",
+    "message": "Carta de Apresentação / Mensagem",
+    "resume": "Currículo/CV (PDF ou Doc)",
+    "submit": "Enviar Candidatura",
+    "sending": "Enviando Candidatura...",
+    "success": "Sua candidatura foi enviada com sucesso. Entraremos em contato!",
+    "error": "Ocorreu um erro ao enviar sua candidatura. Por favor, tente novamente mais tarde."
+  },
+  "contact": {
+    "tag": "Entre em Contato",
+    "title": "Inicie uma Conversa",
+    "office": "Escritório Corporativo",
+    "address": "Lote No: 604, Kondolbag, Taibpur, Ashulia, Savar\nDhaka-1341, Bangladesh",
+    "inquiries": "Inquéritos Gerais",
+    "sales": "Vendas e Merchandising",
+    "follow": "Siga no LinkedIn",
+    "send": "Enviar uma Mensagem",
+    "namePlaceholder": "João Silva",
+    "emailPlaceholder": "joao@empresa.pt",
+    "messagePlaceholder": "Como podemos ajudar?",
+    "btnSend": "Enviar Mensagem",
+    "btnSending": "Enviando...",
+    "success": "✓ Mensagem enviada. Entraremos em contato em breve.",
+    "error": "Algo deu errado. Por favor, tente novamente.",
+    "networkError": "Erro de rede. Envie-nos um e-mail diretamente para info@soniagroup.com"
+  },
+  "footer": {
+    "about": "Sobre",
+    "products": "Produtos",
+    "sustainability": "Sustentabilidade",
+    "board": "Conselho",
+    "contact": "Contato",
+    "headquarters": "Sede Corporativa",
+    "copy": "Projetado, Desenvolvido e Mantido pelo Depto. de Engenharia de Software da Sonia & Sweaters Limited. © 2026"
+  },
+  "board": {
+    "tag": "Liderança",
+    "title": "Conselho de Administração",
+    "director": "Diretor",
+    "chairman": "Presidente",
+    "managingDirector": "Diretor Executivo",
+    "coo": "Diretor de Operações"
+  }
+}

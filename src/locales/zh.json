@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "about": "关于我们",
+    "products": "产品",
+    "values": "价值观",
+    "sustainability": "可持续发展",
+    "catalog": "目录",
+    "careers": "职业生涯",
+    "board": "董事会",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "eyebrow": "Sonia 集团 · 孟加拉国",
+    "title": "打造\n世界顶级的\n针织品",
+    "subtitle": "设计引领。可持续制造。全球信赖 —— 超过20年。",
+    "discover": "探索我们的故事",
+    "viewProducts": "查看产品",
+    "scroll": "滚动"
+  },
+  "about": {
+    "tag": "我们的故事",
+    "title": "激情与\n精确的碰撞",
+    "description1": "凭借23年的经验，我们已从服装设计师发展成为全球品牌的全方位针织品制造商。我们的设计团队创造各种价位的多样化系列，专注于毛衣、开衫和T恤。",
+    "description2": "我们将精湛的工艺与特殊的装饰相结合，打造卓越的品质。凭借包装和物流等强大的供应链服务，我们确保安全、环保的制造。",
+    "description3": "我们对可持续发展和卓越的关注帮助品牌创造美观、实用的服装，同时在B2B合作伙伴关系中建立信任和创新。",
+    "stats": {
+      "years": "卓越历程",
+      "clients": "全球客户",
+      "commitment": "100% 承诺"
+    },
+    "since": "始于 2003",
+    "location": "Sonia 集团，孟加拉国"
+  },
+  "catalog": {
+    "tag": "查看我们的工作",
+    "title": "数字化目录",
+    "description": "通过我们的互动式数字演示，探索我们最新的季节性系列和能力展示。",
+    "catalogNum": "系列目录",
+    "range": "Sonia & Sweaters —— 全系列"
+  },
+  "careers": {
+    "tag": "加入我们的团队",
+    "title": "Sonia 的职业生涯",
+    "loading": "正在加载开放职位...",
+    "noJobs": "目前没有开放职位。请稍后再来查看。",
+    "applyNow": "立即申请",
+    "applyingFor": "申请职位",
+    "fullName": "姓名",
+    "email": "电子邮箱",
+    "message": "求职信 / 留言",
+    "resume": "简历/CV (PDF 或 Doc)",
+    "submit": "提交申请",
+    "sending": "正在发送申请...",
+    "success": "您的申请已成功提交。我们会与您联系！",
+    "error": "发送申请时出错。请稍后重试。"
+  },
+  "contact": {
+    "tag": "取得联系",
+    "title": "开始对话",
+    "office": "公司总部",
+    "address": "孟加拉国，达卡-1341，萨瓦尔，阿舒利亚，塔伊布尔，孔多尔巴格，604号地块",
+    "inquiries": "一般查询",
+    "sales": "销售与理单",
+    "follow": "在 LinkedIn 上关注",
+    "send": "发送留言",
+    "namePlaceholder": "张三",
+    "emailPlaceholder": "zhangsan@company.com",
+    "messagePlaceholder": "我们能如何帮助您？",
+    "btnSend": "发送留言",
+    "btnSending": "正在发送...",
+    "success": "✓ 留言已发送。我们会尽快回复。",
+    "error": "出错了。请重试。",
+    "networkError": "网络错误。请直接发送邮件至 info@soniagroup.com"
+  },
+  "footer": {
+    "about": "关于",
+    "products": "产品",
+    "sustainability": "可持续发展",
+    "board": "董事会",
+    "contact": "联系",
+    "headquarters": "公司总部",
+    "copy": "由 Sonia & Sweaters Limited 软件工程部设计、开发和维护。© 2026"
+  },
+  "board": {
+    "tag": "领导层",
+    "title": "董事会",
+    "director": "董事",
+    "chairman": "主席",
+    "managingDirector": "总经理",
+    "coo": "首席运营官"
+  }
+}

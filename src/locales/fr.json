@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "about": "À Propos",
+    "products": "Produits",
+    "values": "Valeurs",
+    "sustainability": "Durabilité",
+    "catalog": "Catalogue",
+    "careers": "Carrières",
+    "board": "Conseil",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "Sonia Group · Bangladesh",
+    "title": "Confectionner la\nMeilleure Maille\nau Monde",
+    "subtitle": "Axé sur le design. Fabriqué durablement. Approuvé mondialement — depuis plus de 20 ans.",
+    "discover": "Découvrez notre histoire",
+    "viewProducts": "Voir les produits",
+    "scroll": "Défiler"
+  },
+  "about": {
+    "tag": "Notre Histoire",
+    "title": "Où la Passion\nRencontre la Précision",
+    "description1": "Avec 23 ans d'expérience, nous sommes passés de concepteurs de vêtements à un fabricant de maille à service complet pour des marques mondiales. Notre équipe de conception crée des collections polyvalentes à différents niveaux de prix, se spécialisant dans les pulls, les cardigans et les t-shirts.",
+    "description2": "Nous combinons le savoir-faire artisanal avec des finitions spéciales pour une qualité exceptionnelle. Avec des services de chaîne d'approvisionnement robustes tels que l'emballage et la logistique, nous garantissons une fabrication sûre et écologique.",
+    "description3": "Notre concentration sur la durabilité et l'excellence aide les marques à créer des vêtements beaux et fonctionnels tout en renforçant la confiance et l'innovation dans les partenariats B2B.",
+    "stats": {
+      "years": "Années d'Excellence",
+      "clients": "Clients Globaux",
+      "commitment": "100% Engagement"
+    },
+    "since": "Depuis 2003",
+    "location": "Sonia Group, Bangladesh"
+  },
+  "catalog": {
+    "tag": "Voir Notre Travail",
+    "title": "Les Catalogues Numériques",
+    "description": "Explorez nos dernières collections saisonnières et nos démonstrations de capacités à travers nos présentations numériques interactives.",
+    "catalogNum": "Catalogue de Collection",
+    "range": "Sonia & Sweaters — Gamme Complète"
+  },
+  "careers": {
+    "tag": "Rejoignez Notre Équipe",
+    "title": "Carrières chez Sonia",
+    "loading": "Chargement des postes ouverts...",
+    "noJobs": "Il n'y a actuellement aucun poste ouvert. Veuillez revenir plus tard.",
+    "applyNow": "Postuler Maintenant",
+    "applyingFor": "Candidature pour",
+    "fullName": "Nom Complet",
+    "email": "Adresse E-mail",
+    "message": "Lettre de Motivation / Message",
+    "resume": "Curriculum Vitae (PDF ou Doc)",
+    "submit": "Envoyer la Candidature",
+    "sending": "Envoi de la Candidature...",
+    "success": "Votre candidature a été envoyée avec succès. Nous vous contacterons !",
+    "error": "Une erreur est survenue lors de l'envoi de votre candidature. Veuillez réessayer plus tard."
+  },
+  "contact": {
+    "tag": "Entrez en Contact",
+    "title": "Commencez une Conversation",
+    "office": "Bureau d'Entreprise",
+    "address": "Lot No: 604, Kondolbag, Taibpur, Ashulia, Savar\nDhaka-1341, Bangladesh",
+    "inquiries": "Demandes Générales",
+    "sales": "Ventes et Merchandising",
+    "follow": "Suivre sur LinkedIn",
+    "send": "Envoyer un Message",
+    "namePlaceholder": "Jean Dupont",
+    "emailPlaceholder": "jean@entreprise.fr",
+    "messagePlaceholder": "Comment pouvons-nous vous aider ?",
+    "btnSend": "Envoyer le Message",
+    "btnSending": "Envoi...",
+    "success": "✓ Message envoyé. Nous vous contacterons sous peu.",
+    "error": "Quelque chose s'est mal passé. Veuillez réessayer.",
+    "networkError": "Erreur réseau. Veuillez nous envoyer un e-mail directement à info@soniagroup.com"
+  },
+  "footer": {
+    "about": "À Propos",
+    "products": "Produits",
+    "sustainability": "Durabilité",
+    "board": "Conseil",
+    "contact": "Contact",
+    "headquarters": "Siège de l'Entreprise",
+    "copy": "Conçu, Développé et Maintenu par le Dépt. de Génie Logiciel de Sonia & Sweaters Limited. © 2026"
+  },
+  "board": {
+    "tag": "Direction",
+    "title": "Conseil d'Administration",
+    "director": "Directeur",
+    "chairman": "Président",
+    "managingDirector": "Directeur Général",
+    "coo": "Directeur des Opérations"
+  }
+}

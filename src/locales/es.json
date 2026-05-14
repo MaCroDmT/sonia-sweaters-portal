@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "about": "Nosotros",
+    "products": "Productos",
+    "values": "Valores",
+    "sustainability": "Sostenibilidad",
+    "catalog": "Catálogo",
+    "careers": "Carreras",
+    "board": "Junta",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "eyebrow": "Sonia Group · Bangladesh",
+    "title": "Creando la\nMejor Ropa de Punto\ndel Mundo",
+    "subtitle": "Liderado por el diseño. Fabricado de forma sostenible. Confiado globalmente — por más de 20 años.",
+    "discover": "Descubre Nuestra Historia",
+    "viewProducts": "Ver Productos",
+    "scroll": "Desplazamiento"
+  },
+  "about": {
+    "tag": "Nuestra Historia",
+    "title": "Donde la Pasión\nSe Une a la Precisión",
+    "description1": "Con 23 años de experiencia, hemos crecido de diseñadores de ropa a un fabricante de ropa de punto de servicio completo para marcas globales. Nuestro equipo de diseño crea colecciones versátiles en varios niveles de precios, especializándose en suéteres, cárdigans y camisetas.",
+    "description2": "Combinamos artesanía con acabados especiales para una calidad excepcional. Con servicios de cadena de suministro robustos como embalaje y logística, garantizamos una fabricación segura y ecológica.",
+    "description3": "Nuestro enfoque en la sostenibilidad y la excelencia ayuda a las marcas a crear ropa hermosa y funcional, mientras construye confianza e innovación en las asociaciones B2B.",
+    "stats": {
+      "years": "Años de Excelencia",
+      "clients": "Clientes Globales",
+      "commitment": "100% Compromiso"
+    },
+    "since": "Desde 2003",
+    "location": "Sonia Group, Bangladesh"
+  },
+  "catalog": {
+    "tag": "Ver Nuestro Trabajo",
+    "title": "Los Catálogos Digitales",
+    "description": "Explore nuestras últimas colecciones de temporada y vitrinas de capacidad a través de nuestras presentaciones digitales interactivas.",
+    "catalogNum": "Catálogo de Colección",
+    "range": "Sonia & Sweaters — Gama Completa"
+  },
+  "careers": {
+    "tag": "Únete a Nuestro Equipo",
+    "title": "Carreras en Sonia",
+    "loading": "Cargando puestos abiertos...",
+    "noJobs": "Actualmente no hay puestos abiertos. Por favor, vuelva más tarde.",
+    "applyNow": "Aplicar Ahora",
+    "applyingFor": "Aplicando para",
+    "fullName": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "message": "Carta de Presentación / Mensaje",
+    "resume": "Currículum/CV (PDF o Doc)",
+    "submit": "Enviar Solicitud",
+    "sending": "Enviando Solicitud...",
+    "success": "Su solicitud ha sido enviada con éxito. ¡Estaremos en contacto!",
+    "error": "Hubo un error al enviar su solicitud. Por favor, inténtelo de nuevo más tarde."
+  },
+  "contact": {
+    "tag": "Ponte en Contacto",
+    "title": "Inicia una Conversación",
+    "office": "Oficina Corporativa",
+    "address": "Parcela No: 604, Kondolbag, Taibpur, Ashulia, Savar\nDhaka-1341, Bangladesh",
+    "inquiries": "Consultas Generales",
+    "sales": "Ventas y Merchandising",
+    "follow": "Sigue en LinkedIn",
+    "send": "Enviar un Mensaje",
+    "namePlaceholder": "John Doe",
+    "emailPlaceholder": "john@empresa.com",
+    "messagePlaceholder": "¿Cómo podemos ayudarte?",
+    "btnSend": "Enviar Mensaje",
+    "btnSending": "Enviando...",
+    "success": "✓ Mensaje enviado. Nos pondremos en contacto en breve.",
+    "error": "Algo salió mal. Por favor, inténtelo de nuevo.",
+    "networkError": "Error de red. Por favor envíenos un correo electrónico directamente a info@soniagroup.com"
+  },
+  "footer": {
+    "about": "Nosotros",
+    "products": "Productos",
+    "sustainability": "Sostenibilidad",
+    "board": "Junta",
+    "contact": "Contacto",
+    "headquarters": "Sede Corporativa",
+    "copy": "Diseñado, Desarrollado y Mantenido por el Depto. de Ingeniería de Software. Sonia & Sweaters Limited. © 2026"
+  },
+  "board": {
+    "tag": "Liderazgo",
+    "title": "Junta Directiva",
+    "director": "Director",
+    "chairman": "Presidente",
+    "managingDirector": "Director Gerente",
+    "coo": "Director de Operaciones"
+  }
+}
