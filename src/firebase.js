@@ -3,12 +3,12 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDphb7K-Ys_EGyBK7S3QCbWacwL0HaCBIA",
-  authDomain: "sonia-sweaters-careers-f45a4.firebaseapp.com",
-  projectId: "sonia-sweaters-careers-f45a4",
-  storageBucket: "sonia-sweaters-careers-f45a4.firebasestorage.app",
-  messagingSenderId: "338601710303",
-  appId: "1:338601710303:web:8f87427b0488b1e16ccf6a"
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIREBASE_APP_ID
 };
 
 const app = initializeApp(firebaseConfig);
